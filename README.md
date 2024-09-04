@@ -24,9 +24,9 @@ El modelo fue entrenado utilizando el dataset de Kaggle [Fake and Real News Data
 
 ## Configuración del Backend
 
-1. Navega al directorio `backend/`:
+1. Navega al directorio `fake_news-detector/`:
    ```bash
-   cd backend
+   cd fake_news-detector
    ```
 2. Crea un entorno virtual e instala las dependencias:
    ```bash
@@ -45,9 +45,9 @@ El modelo fue entrenado utilizando el dataset de Kaggle [Fake and Real News Data
 
 ## Configuración del Frontend
 
-1. Navega al directorio `frontend/`:
+1. Navega al directorio `my-sveltekit-project/`:
    ```bash
-   cd frontend
+   cd my-sveltekit-project
    ```
 
 2. Instala las dependencias:
