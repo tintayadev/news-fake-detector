@@ -1,0 +1,25 @@
+# Para Django
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+
+# Para SvelteKit
+node_modules/
+*.log
+*.env
+
+# Archivos del sistema
+.DS_Store
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos generados por el sistema
+*.swp
+*.swo
+
+env
+/env
+env
