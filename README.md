@@ -11,6 +11,12 @@
 - **backend/**: Contiene el código del backend desarrollado con Django.
 - **frontend/**: Contiene el código del frontend desarrollado con SvelteKit.
 
+
+## Dataset
+
+El modelo fue entrenado utilizando el dataset de Kaggle [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset). Los archivos de datos no están incluidos en este repositorio debido a su tamaño. Puedes descargar el dataset desde el enlace proporcionado y colocarlo en el directorio adecuado para entrenar el modelo.
+
+
 ## Requisitos
 
 - Python 3.8 o superior
